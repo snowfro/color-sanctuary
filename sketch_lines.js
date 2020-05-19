@@ -1,4 +1,5 @@
-const hash = "0x88e96d4537bea4d9c05d12549907b32561d3bf31f45aae734cdc119f13406cb6";
+
+const hash = '0x88e96d4537bea4d9c05d12549907b32561d3bf31f45aae734cdc119f13406cb6';
 
 /*
 take first 20 hex pairs and sort them to set segment points
